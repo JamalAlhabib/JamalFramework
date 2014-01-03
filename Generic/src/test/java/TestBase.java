@@ -12,6 +12,7 @@ public class TestBase extends Base {
     @Test
     public void open() {
        System.out.println("hello");
+       System.out.print("helllllooooo");
                click();
     }
 
